@@ -3,7 +3,7 @@ body {
     font-family:'Spartan';
     
   }
-  h1 {
+  h1, .example {
     color: #4aaaa5;
   }
   p {
